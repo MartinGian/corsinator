@@ -7,7 +7,6 @@ The --port param is optional. Default: 8080.
 Instructions:
 
 ```
-```console
 git clone https://github.com/MartinGian/corsinator.git
 cd corsinator
 npm install
